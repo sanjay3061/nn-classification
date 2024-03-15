@@ -33,8 +33,8 @@ Write your own steps
 ### Register Number:
 
 ```python
-#Name:Gowtham N
-#reg no :212222220013
+#Name:Sanjay.R
+#reg no :212222220038
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
