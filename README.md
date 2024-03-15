@@ -14,7 +14,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-![image](https://github.com/praveenst13/nn-classification/assets/118787793/d5d98675-1c76-4da1-8239-e37bffdee71c)
+![image](https://github.com/sanjay3061/nn-classification/assets/121215929/d49e7aa4-bda4-414c-b33d-7a28839b1041)
+
 
 
 ## DESIGN STEPS
@@ -152,30 +153,34 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-![image](https://github.com/praveenst13/nn-classification/assets/118787793/3280b864-5231-43e7-bcf2-ecbc3695ca94)
+![image](https://github.com/sanjay3061/nn-classification/assets/121215929/3bfc140a-8098-46da-8598-6a9aee244063)
+
 
 
 ## OUTPUT
-![image](https://github.com/krithygowthamn/nn-classification/assets/122247810/1ecfce66-279f-4d6e-a680-a704512cae1d)
+![image](https://github.com/sanjay3061/nn-classification/assets/121215929/583f6a49-b5fa-48f1-82e1-d7adf5e35bef)
+
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/krithygowthamn/nn-classification/assets/122247810/6feede8a-c9de-457a-979d-4fa2dfcbb4aa)
+![image](https://github.com/sanjay3061/nn-classification/assets/121215929/5e0de693-5687-4748-897d-7a47eaa5590f)
 
 
 ### Classification Report
 
-![image](https://github.com/krithygowthamn/nn-classification/assets/122247810/b4985d06-3517-4f6c-b3a1-0b41cbd4cbb6)
+![image](https://github.com/sanjay3061/nn-classification/assets/121215929/b98bb096-f1b7-4531-9725-d1fa32d6235f)
+
 
 
 ### Confusion Matrix
 
-![image](https://github.com/krithygowthamn/nn-classification/assets/122247810/fcf172d5-f17c-415d-a054-af0c48aa02ad)
+![image](https://github.com/sanjay3061/nn-classification/assets/121215929/6704743d-42c0-4762-b67e-bd954fd13527)
+
 
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/krithygowthamn/nn-classification/assets/122247810/a16e5aef-a986-4a71-b1ad-295e80e7d48e)
+![image](https://github.com/sanjay3061/nn-classification/assets/121215929/55cef137-b2cb-4752-bb60-ce7663c89145)
 
 ## RESULT
 A neural network classification model is developed for the given dataset.
