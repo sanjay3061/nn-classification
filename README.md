@@ -17,15 +17,32 @@ You are required to help the manager to predict the right group of the new custo
 ![image](https://github.com/sanjay3061/nn-classification/assets/121215929/d49e7aa4-bda4-414c-b33d-7a28839b1041)
 
 
-
 ## DESIGN STEPS
 
-### STEP 1:
-Write your own steps
+### STEP 1: 
+Loading the dataset.
 
-### STEP 2:
+### STEP 2: 
+Checking the null values and converting the string datatype into integer or float datatype using label encoder
 
-### STEP 3:
+### STEP 3: 
+Split the dataset into training and testing 
+
+### STEP 4: 
+Create MinMaxScaler objects,fit the model and transform the dat
+
+### STEP 5: 
+Build the Neural Network Model and compile the mode
+
+### STEP 6: 
+Train the model with the training data
+
+### STEP 7: 
+Plot the training loss and validation loss.Predicting the model through classification report,confusion matrix.Predict the new sample data.
+
+
+
+
 
 
 ## PROGRAM
